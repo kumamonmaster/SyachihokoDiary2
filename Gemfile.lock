@@ -191,6 +191,7 @@ DEPENDENCIES
   devise
   jbuilder (~> 2.5)
   jquery-rails
+  less-rails
   listen (~> 3.0.5)
   pg
   puma (~> 3.0)
