@@ -31,7 +31,6 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 gem 'devise'
-gem 'less-rails'
 gem 'twitter-bootstrap-rails'
 
 group :development, :test do
